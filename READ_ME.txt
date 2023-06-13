@@ -1,0 +1,1 @@
+Launch Jupyter Notebooks by "jupyter notebook" in terminal
